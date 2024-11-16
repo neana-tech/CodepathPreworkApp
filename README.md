@@ -10,19 +10,17 @@ Time spent: 3.5 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users will see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+Link to Video Walkthrough on Loom
 
 https://www.loom.com/share/19fce9dd5bd2489d98218a9a98440209?sid=95471f4b-f744-4ca8-8540-eb1f72e274a4
 
 ## App Brainstorming (Step 4)
 
 ## Notes
-
 Had initial issues switiching from SwiftUI to Storyboard, but was able to figure it out. 
 ## License
 
