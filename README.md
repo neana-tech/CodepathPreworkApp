@@ -38,7 +38,7 @@ Had initial issues switiching from SwiftUI to Storyboard, but was able to figure
     See the License for the specific language governing permissions and
     limitations under the License.
 
-
+App Brainstorming
 Features I love about other applications:
 
 Lemon8
@@ -56,3 +56,6 @@ TikTok
 - Editing tools: Built-in filters, effects, and sounds that make creating professional-looking videos easy and engaging.
 - Community challenges: Viral trends and challenges foster creativity and encourage participation, making the app feel interactive and dynamic.
 
+MY App Idea
+
+The app I want to build is a price-tracking app designed for individuals with Celiac disease and gluten sensitivity. Gluten-free products are often expensive and not easily accessible. This app would allow users to search for gluten-free items, compare prices across different stores, and track discounts or sales. It could include features like user reviews for products, a barcode scanner to check if an item is gluten-free, and a personal shopping list to manage frequently purchased items. Additionally, the app could notify users of price drops or new products in their area, helping them save money and make informed choices.
